@@ -38,7 +38,7 @@ Everything that was not changed, and why, is listed in the cleaning log.
 ## Repository structure
 
 ```
-nashville-housing-cleaning/
+Nashville-housing-cleaning-by-MMO/
 ├── README.md
 ├── LICENSE
 ├── delivery/
@@ -88,3 +88,4 @@ My own work (report, log, Power Query code) is released under the **MIT License*
 ## Contact
 
 Mohanad Mohammed Osman Elawad · [LinkedIn](https://linkedin.com/in/mohanad-osman-147b5b1a1)
+Available for data cleaning projects. Contact via LinkedIn.
